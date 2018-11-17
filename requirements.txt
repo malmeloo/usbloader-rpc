@@ -1,0 +1,4 @@
+pypresence
+requests
+flask
+bs4

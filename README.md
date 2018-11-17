@@ -20,4 +20,4 @@ Contact me if you want to test other loaders so I can add them below.
 ### USB Loader GX
 For this loader, you should make sure to enable the "autoinit network" and "Wiinnertag" settings. It might ask you to create a config file; make a guess and pick either yes or no. It doesn't really matter.
 
-This script creates a config file for USB loader GX on every boot (named Wiinnertag.xml). Place this file in SD:/apps/usbloadergx/ and you should be set. Make sure to refresh it once in a while; based on your router, the internal IP of your PC may change, breaking the program. To prevent this, set up a static IP address.
+This script creates a config file for USB loader GX on every boot (named Wiinnertag.xml). Place this file in `SD:/apps/usbloadergx/` and you should be set. Make sure to refresh it once in a while; based on your router, the internal IP of your PC may change, breaking the program. To prevent this, set up a static IP address.

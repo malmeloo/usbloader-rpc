@@ -1,7 +1,12 @@
 # usbloader-rpc
 (Ab)using Wiinnertag to create a Discord rich presence for USB Loaders
 
-I'm too lazy to write a full README, so I will list all the important stuff quickly below.
+## Examples
+The end result looks somewhat like this:
+
+![user settings](https://i.imgur.com/5ewrlfS.png)
+![user menu](https://i.imgur.com/tIcYZYB.png)
+![member list](https://i.imgur.com/Xd1dZ0j.png)
 
 ## Requirements
 * Python 3.6 or higher (I might make Windows executables soon)
